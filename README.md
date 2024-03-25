@@ -1,0 +1,2 @@
+# Verkkokauppa
+Verkkokauppa djangolla
